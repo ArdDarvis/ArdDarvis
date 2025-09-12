@@ -1,5 +1,10 @@
 ## Hi there 👋
 ## I have no idea what I'm doing!
+# This is an `<h1>` header, which is the largest
+
+## This is an `<h2>` header
+
+###### This is an `<h6>` header, which is the smallest
 
 <!--
 **ArdDarvis/ArdDarvis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
