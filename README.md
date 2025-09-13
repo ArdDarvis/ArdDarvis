@@ -5,7 +5,7 @@
 ## This is an `<h2>` header
 
 ###### This is an `<h6>` header, which is the smallest
-## then this is normal text
+# then this is normal text
 <!--
 **ArdDarvis/ArdDarvis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
