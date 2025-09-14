@@ -14,6 +14,21 @@ if you just type you get this.
 if you just type you get this. 
 ###### six hashes
 if you just type you get this. 
+#
+#
+#
+
+### How to insert picture. 
+! [Image of Yaktocat] (https://octodex.github.com/images/yaktocat.png)"
+
+
+
+### How to code block
+use tildas. it can get weird when using more than one. 
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
 
 
 
