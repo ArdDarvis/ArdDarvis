@@ -25,11 +25,22 @@ if you just type you get this.
 
 ### How to code block
 use tildas. it can get weird when using more than one. 
+![](https://github.com/user-attachments/assets/588d7539-cd8a-4868-b66b-c67f4c4d6aa9)
+
+
 ```
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
 
+### How to do a check list
+![](https://github.com/user-attachments/assets/3e3aeea8-5a4e-4e5d-b868-97b023225c18)
+
+- [X] this is a check list
+- [ ] a
+- [ ] s
+- [ ] d
+- [ ] f
 
 
 <!--
