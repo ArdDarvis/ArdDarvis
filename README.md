@@ -1,20 +1,16 @@
 ## Hi there 👋                                                                                      
-## 2 
-# This is an `<h1>` header, which is the largest
-
-## This is an `<h2>` header
-
-###### This is an `<h6>` header, which is the smallest
-# then this is normal text
 
 
-wait, if you just type you get this. 
+if you just type you get this. 
 # one hash
 ## two hashes
 ### three hashes
 #### four hashes
 ##### five hashes
 ###### six hashes
+
+
+
 <!--
 **ArdDarvis/ArdDarvis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
